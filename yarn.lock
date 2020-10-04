@@ -1042,13 +1042,12 @@
     to-fast-properties "^2.0.0"
 
 "@containerlabs/funpack@^1.8.0":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@containerlabs/funpack/-/funpack-1.8.0.tgz#8d97843266facdbae69a89ccb15c14021cd88bfb"
-  integrity sha512-7Qm/dz78RjILZLOKPceR9uKUn5U3NP02mr9pADJHazB3FTjM/FaBvsEN8sOZ8MfL1GxlVdVf8PLL1qhA5JdEXg==
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/@containerlabs/funpack/-/funpack-1.12.0.tgz#df18769c5959cd9601707e21d49782da0cda281c"
+  integrity sha512-ovvKJEkXkN3OQ/4I3g3mi7ffKRNT+jh8gfhaq31vJzTU8U4xGoYUXRPsCcyekO7eum4ovPPqv2qW1QbUSjfBIQ==
   dependencies:
     "@babel/cli" "^7.11.6"
-    "@babel/runtime" "^7.11.2"
-    core-js "^3.6.5"
+    "@babel/core" "^7.11.6"
     rimraf "^3.0.2"
 
 "@emotion/hash@^0.8.0":
