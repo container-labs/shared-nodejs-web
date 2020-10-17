@@ -1,6 +1,6 @@
 {
   "name": "@containerlabs/shared-nodejs-web",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "description": "a shared library for hocs and utils used in a React / Apollo application",
   "main": "functions/index.js",
   "scripts": {
