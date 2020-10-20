@@ -1089,10 +1089,10 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@containerlabs/funpack@^1.8.0":
-  version "1.17.0"
-  resolved "https://registry.yarnpkg.com/@containerlabs/funpack/-/funpack-1.17.0.tgz#6cc473d7dd3bdb9c3c68df06c715591bb816356e"
-  integrity sha512-QNku6dqQnYxrcwx+NFriIcqBTERUHtXBLVI2EkkDTqY4xhmu/1IluThdodbEE2LXEe63gZ3WGuohpXd6MBAZ6A==
+"@containerlabs/funpack@^1.21.0":
+  version "1.21.0"
+  resolved "https://registry.yarnpkg.com/@containerlabs/funpack/-/funpack-1.21.0.tgz#3e5a868b460a8dd2028f53ab7cd0e4da157959df"
+  integrity sha512-qYGhKVd9gBW37Zh0+S0wxH9Ws+mxJa9wtl0jeA5vXR1J8PhwV15wMVScrfPwhQS44qIEfRiKijOFA//6lQchog==
   dependencies:
     "@babel/cli" "^7.11.6"
     "@babel/core" "^7.11.6"
