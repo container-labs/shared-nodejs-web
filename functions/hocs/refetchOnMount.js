@@ -1,12 +1,12 @@
 "use strict";
 
-require("core-js/modules/es.object.create");
+require("core-js/modules/es.object.create.js");
 
-require("core-js/modules/es.object.define-property");
+require("core-js/modules/es.object.define-property.js");
 
-require("core-js/modules/es.object.get-own-property-descriptor");
+require("core-js/modules/es.object.get-own-property-descriptor.js");
 
-require("core-js/modules/es.object.get-own-property-names");
+require("core-js/modules/es.object.get-own-property-names.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true

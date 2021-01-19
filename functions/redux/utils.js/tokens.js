@@ -1,6 +1,6 @@
 "use strict";
 
-require("core-js/modules/es.date.to-string");
+require("core-js/modules/es.date.to-string.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true

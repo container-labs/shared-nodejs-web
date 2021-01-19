@@ -1,14 +1,10 @@
 "use strict";
 
-require("core-js/modules/es.array.concat");
+function _defaults(obj, defaults) { var keys = Object.getOwnPropertyNames(defaults); for (var i = 0; i < keys.length; i++) { var key = keys[i]; var value = Object.getOwnPropertyDescriptor(defaults, key); if (value && value.configurable && obj[key] === undefined) { Object.defineProperty(obj, key, value); } } return obj; }
 
-require("core-js/modules/es.object.create");
+require("core-js/modules/es.array.concat.js");
 
-require("core-js/modules/es.object.define-property");
-
-require("core-js/modules/es.object.get-own-property-descriptor");
-
-require("core-js/modules/es.object.get-own-property-names");
+require("core-js/modules/es.object.define-property.js");
 
 Object.defineProperty(exports, "__esModule", {
   value: true
@@ -24,8 +20,6 @@ var _reactRedux = require("react-redux");
 var _connectedReactRouter = require("connected-react-router");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { "default": obj }; }
-
-function _defaults(obj, defaults) { var keys = Object.getOwnPropertyNames(defaults); for (var i = 0; i < keys.length; i++) { var key = keys[i]; var value = Object.getOwnPropertyDescriptor(defaults, key); if (value && value.configurable && obj[key] === undefined) { Object.defineProperty(obj, key, value); } } return obj; }
 
 function _assertThisInitialized(self) { if (self === void 0) { throw new ReferenceError("this hasn't been initialised - super() hasn't been called"); } return self; }
 
