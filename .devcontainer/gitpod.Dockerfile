@@ -1,5 +1,4 @@
-FROM containerlabs/nodejs:latest
-
+FROM gcr.io/containerlabs/nodejs:latest
 
 # RUN bash ./setup.sh
 
