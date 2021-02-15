@@ -3,4 +3,8 @@ image:
 
 # TODO: make this configurable for monorepo support
 tasks:
-  - init: yarn install
+  - init: terraform init
+
+vscode:
+  extensions:
+    - hashicorp.terraform
