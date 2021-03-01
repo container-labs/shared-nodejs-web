@@ -88,7 +88,7 @@
     "@babel/preset-flow": "^7.12.13",
     "@babel/preset-react": "^7.12.13",
     "@babel/register": "^7.13.8",
-    "@containerlabs/funpack": "^1.30.0",
+    "@containerlabs/funpack": "^1.31.0",
     "babel-plugin-add-module-exports": "1.0.4",
     "babel-plugin-check-es2015-constants": "7.0.0-beta.3",
     "babel-plugin-react-html-attrs": "^3.0.5",
