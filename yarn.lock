@@ -803,11 +803,11 @@
     "@babel/helper-plugin-utils" "^7.13.0"
 
 "@babel/plugin-transform-destructuring@^7.13.0":
-  version "7.13.0"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-destructuring/-/plugin-transform-destructuring-7.13.0.tgz#c5dce270014d4e1ebb1d806116694c12b7028963"
-  integrity sha512-zym5em7tePoNT9s964c0/KU3JPPnuq7VhIxPRefJ4/s82cD+q1mgKfuGRDMCPL0HTyKz4dISuQlCusfgCJ86HA==
+  version "7.14.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-destructuring/-/plugin-transform-destructuring-7.14.7.tgz#0ad58ed37e23e22084d109f185260835e5557576"
+  integrity sha512-0mDE99nK+kVh3xlc5vKwB6wnP9ecuSj+zQCa/n0voENtP/zymdT4HH6QEb65wjjcbqr1Jb/7z9Qp7TF5FtwYGw==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.13.0"
+    "@babel/helper-plugin-utils" "^7.14.5"
 
 "@babel/plugin-transform-dotall-regex@^7.12.13", "@babel/plugin-transform-dotall-regex@^7.4.4":
   version "7.12.13"
